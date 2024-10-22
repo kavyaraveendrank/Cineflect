@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Cineflect/static/css/main.33aaa377.css",
-    "main.js": "/Cineflect/static/js/main.399f8a86.js",
+    "main.css": "/Cineflect/static/css/main.6f545a05.css",
+    "main.js": "/Cineflect/static/js/main.300cc724.js",
     "static/js/453.5e560239.chunk.js": "/Cineflect/static/js/453.5e560239.chunk.js",
     "index.html": "/Cineflect/index.html",
-    "main.33aaa377.css.map": "/Cineflect/static/css/main.33aaa377.css.map",
-    "main.399f8a86.js.map": "/Cineflect/static/js/main.399f8a86.js.map",
+    "main.6f545a05.css.map": "/Cineflect/static/css/main.6f545a05.css.map",
+    "main.300cc724.js.map": "/Cineflect/static/js/main.300cc724.js.map",
     "453.5e560239.chunk.js.map": "/Cineflect/static/js/453.5e560239.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33aaa377.css",
-    "static/js/main.399f8a86.js"
+    "static/css/main.6f545a05.css",
+    "static/js/main.300cc724.js"
   ]
 }
